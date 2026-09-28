@@ -49,4 +49,4 @@ If this policy changes, we'll update the date above. Continuing to use the bot m
 
 ## Contact
 
-Questions or deletion requests: CONTACT_EMAIL
+Questions or deletion requests: studygardenhelp@gmail.com

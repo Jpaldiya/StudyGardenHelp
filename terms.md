@@ -42,4 +42,4 @@ We may update these terms. If we do, we'll update the date above. Continuing to 
 
 ## Contact
 
-CONTACT_EMAIL
+studygardenhelp@gmail.com
